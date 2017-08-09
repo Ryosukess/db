@@ -1,4 +1,7 @@
 
+
+mariadb(mysql)
+
 mysql退出命令： $exit; $quit; 快捷键Ctrl + D;
 
 mysql命令行，可选项：
